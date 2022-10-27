@@ -2,7 +2,7 @@ import React from 'react'
 
 const Sonstiges = () => {
   return (
-    <div>Sonstiges</div>
+    <div className='text-white'>Sonstiges (in Bearbeitung)</div>
   )
 }
 

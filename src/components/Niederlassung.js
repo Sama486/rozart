@@ -2,7 +2,7 @@ import React from 'react'
 
 const Niederlassung = () => {
   return (
-    <div>Niederlassung</div>
+    <div className='text-white'>Niederlassung (in Bearbeitung)</div>
   )
 }
 
