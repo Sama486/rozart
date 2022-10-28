@@ -1,18 +1,28 @@
 {
   "files": {
     "main.css": "/rozart/static/css/main.dde2d521.css",
-    "main.js": "/rozart/static/js/main.33bd0974.js",
+    "main.js": "/rozart/static/js/main.d5bcd9b5.js",
     "static/js/483.72aec5c0.chunk.js": "/rozart/static/js/483.72aec5c0.chunk.js",
     "static/media/Kunst1.jpg": "/rozart/static/media/Kunst1.9b69cda52a7ad19a675b.jpg",
     "static/media/Logo-02.png": "/rozart/static/media/Logo-02.e62f004f01ec27346a1a.png",
+    "static/media/Art7.jpg": "/rozart/static/media/Art7.ef639a4d14be88b1284a.jpg",
+    "static/media/Art3.jpg": "/rozart/static/media/Art3.8db1f75083d852ad2a95.jpg",
+    "static/media/Art4.jpg": "/rozart/static/media/Art4.b64b0a5023be6b814275.jpg",
+    "static/media/Art5.jpg": "/rozart/static/media/Art5.5cdb440e93745fd0c17f.jpg",
+    "static/media/Art2.jpg": "/rozart/static/media/Art2.71ee0ec0da8647e1586f.jpg",
+    "static/media/Art10.jpg": "/rozart/static/media/Art10.b55aa7e1eadc5a7e5c73.jpg",
+    "static/media/Art9.jpg": "/rozart/static/media/Art9.a679ad0d10fc919e7af5.jpg",
+    "static/media/Art1.jpg": "/rozart/static/media/Art1.239276efa4205d39ebac.jpg",
     "static/media/Logo-01.svg": "/rozart/static/media/Logo-01.983cd5144fd68fa3d95dea1f3cb2b0bb.svg",
+    "static/media/Art6.jpg": "/rozart/static/media/Art6.e5d8eabb04605633fb26.jpg",
+    "static/media/Art8.jpg": "/rozart/static/media/Art8.2550e384e739b59abec8.jpg",
     "index.html": "/rozart/index.html",
     "main.dde2d521.css.map": "/rozart/static/css/main.dde2d521.css.map",
-    "main.33bd0974.js.map": "/rozart/static/js/main.33bd0974.js.map",
+    "main.d5bcd9b5.js.map": "/rozart/static/js/main.d5bcd9b5.js.map",
     "483.72aec5c0.chunk.js.map": "/rozart/static/js/483.72aec5c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dde2d521.css",
-    "static/js/main.33bd0974.js"
+    "static/js/main.d5bcd9b5.js"
   ]
 }
