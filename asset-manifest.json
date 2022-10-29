@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rozart/static/css/main.dde2d521.css",
-    "main.js": "/rozart/static/js/main.d5bcd9b5.js",
+    "main.css": "/rozart/static/css/main.5f6676f1.css",
+    "main.js": "/rozart/static/js/main.4f955a22.js",
     "static/js/483.72aec5c0.chunk.js": "/rozart/static/js/483.72aec5c0.chunk.js",
     "static/media/Kunst1.jpg": "/rozart/static/media/Kunst1.9b69cda52a7ad19a675b.jpg",
     "static/media/Logo-02.png": "/rozart/static/media/Logo-02.e62f004f01ec27346a1a.png",
@@ -17,12 +17,12 @@
     "static/media/Art6.jpg": "/rozart/static/media/Art6.e5d8eabb04605633fb26.jpg",
     "static/media/Art8.jpg": "/rozart/static/media/Art8.2550e384e739b59abec8.jpg",
     "index.html": "/rozart/index.html",
-    "main.dde2d521.css.map": "/rozart/static/css/main.dde2d521.css.map",
-    "main.d5bcd9b5.js.map": "/rozart/static/js/main.d5bcd9b5.js.map",
+    "main.5f6676f1.css.map": "/rozart/static/css/main.5f6676f1.css.map",
+    "main.4f955a22.js.map": "/rozart/static/js/main.4f955a22.js.map",
     "483.72aec5c0.chunk.js.map": "/rozart/static/js/483.72aec5c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dde2d521.css",
-    "static/js/main.d5bcd9b5.js"
+    "static/css/main.5f6676f1.css",
+    "static/js/main.4f955a22.js"
   ]
 }
